@@ -1,0 +1,7 @@
+sm99img
+*.o
+*.bin
+*.hex
+*.ppm
+*.pbm
+*.png
